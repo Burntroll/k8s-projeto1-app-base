@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
-* [General info] (#general-info)
-* [Technologies] (#technologies)
-* [Architecture] (#architecture)
+* [General info](#general-info)
+* [Technologies](#technologies)
+* [Architecture](#architecture)
 
 
 
