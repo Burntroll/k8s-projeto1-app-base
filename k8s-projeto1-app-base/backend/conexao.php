@@ -1,10 +1,10 @@
 <?php
-$servername = "";
+$servername = "mysql-connection";
 $username = "root";
 $password = "Senha123";
-$database = "meubanco";
+$database = "mybank";
 
-// Criar conexão
+// Creates connection
 
 
 $link = new mysqli($servername, $username, $password, $database);
